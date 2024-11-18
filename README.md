@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 })
 ```
+
+## Project Info
+- work with [shadecn/ui](https://ui.shadcn.com/docs)
+- recipe app but requires .env file for the routes
